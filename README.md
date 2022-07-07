@@ -1,4 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zxy678&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<a href="https://github.com/zxy678">
+  <img align="center" alt="GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=zxy678&show_icons=true&hide=contribs&bg_color=F7D6E0,EFF7F6,B2F7EF&theme=" />
+</a>
+<a href="https://github.com/zxy678">
+  <img align="center" alt="GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxy678&layout=compact&bg_color=F1FAFB,A0E4F1,7EA6F4&theme=" />
+</a>
 
 ### Hello, World! :tada::tada::tada:
 
