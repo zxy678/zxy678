@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300px" src="https://count.getloli.com/get/@zxy678?theme=rule34"></img>
+</p>
+
 <a href="https://github.com/zxy678">
   <img align="right" alt="GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=zxy678&show_icons=true&hide=contribs&bg_color=F7D6E0,EFF7F6,B2F7EF&theme=" />
 </a>
