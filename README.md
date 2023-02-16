@@ -1,8 +1,12 @@
-<p align="center">
+<div align="center">
   <img width="300px" src="https://count.getloli.com/get/@zxy678?theme=rule34"></img>
+</div>
+<div align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxy678&layout=compact&bg_color=F1FAFB,A0E4F1,7EA6F4&theme=" </img>
+</div>
+<div align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=zxy678&show_icons=true&hide=contribs&bg_color=F7D6E0,EFF7F6,B2F7EF&theme=" </img>
-</p>
+</div>
 
 ### Hello, World! :tada::tada::tada:
 
