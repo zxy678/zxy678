@@ -10,7 +10,7 @@
 
 ### Hello, World! :tada::tada::tada:
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Flutter
 
 <!--
 **zxy678/zxy678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
